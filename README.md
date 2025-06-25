@@ -5,6 +5,7 @@ This repository implements systolic array architectures — a class of parallel 
 **OVERVIEW**
 
 -Architecture: A mesh of PEs that perform computations and pass results downstream.
+
 -Data Flow: Inputs are injected into the array edges, and partial results propagate through adjacent PEs.
 
 Use Cases:
